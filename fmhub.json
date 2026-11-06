@@ -1,0 +1,9 @@
+{
+  "what": "A singing voice synth: Pink Trombone's modelled throat, tongue, lips and nose. Play pitch on the keys, shape vowels with the knobs and presets, hold buttons for consonants like S, T and M. Chorus, delay and reverb included. The screen shows the throat.",
+  "author": "Stefan Olofsson",
+  "kinds": [
+    "synth"
+  ],
+  "image": "docs/card.png",
+  "color": "#FF78B4"
+}
