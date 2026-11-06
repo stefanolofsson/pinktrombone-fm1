@@ -1,0 +1,6 @@
+build/
+video/out/
+host/render
+host/*.o
+.DS_Store
+video/film.json
